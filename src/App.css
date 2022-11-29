@@ -1,0 +1,25 @@
+:root {
+
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.4rem;
+  line-height: 2;  
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, ol, ul, div {
+  margin: 0;
+  padding: 0;
+}
+
